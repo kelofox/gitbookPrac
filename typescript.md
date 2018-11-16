@@ -1,2 +1,2 @@
-# TypeScript
+# Note
 
