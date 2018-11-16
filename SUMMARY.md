@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Pomelo](README.md)
+* [TypeScript](typescript.md)
 
